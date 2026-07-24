@@ -11,12 +11,14 @@ import com.example.japanmap.presentation.scene.detail.PrefectureDetailScreen
 import com.example.japanmap.presentation.scene.editor.TripEditorScreen
 import com.example.japanmap.presentation.scene.gallery.PhotoGalleryScreen
 import com.example.japanmap.presentation.scene.main.MainScreen
+import com.example.japanmap.presentation.scene.splash.SplashScreen
 
 /**
  * 앱 네비게이션 그래프. iOS Coordinator 계층 대응.
- * main → detail/{id} → editor/{id} , detail → gallery/{tripId}/{startIndex}
+ * splash → main → detail/{id} → editor/{id} , detail → gallery/{tripId}/{startIndex}
  */
 object Routes {
+    const val SPLASH = "splash"
     const val MAIN = "main"
     const val DETAIL = "detail/{prefectureId}"
     const val EDITOR = "editor/{prefectureId}"
@@ -31,7 +33,17 @@ object Routes {
 fun AppNavHost(container: AppContainer) {
     val nav = rememberNavController()
 
-    NavHost(navController = nav, startDestination = Routes.MAIN) {
+    NavHost(navController = nav, startDestination = Routes.SPLASH) {
+
+        composable(Routes.SPLASH) {
+            SplashScreen(
+                onFinished = {
+                    nav.navigate(Routes.MAIN) {
+                        popUpTo(Routes.SPLASH) { inclusive = true }
+                    }
+                },
+            )
+        }
 
         composable(Routes.MAIN) {
             MainScreen(
