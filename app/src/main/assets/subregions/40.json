@@ -1,0 +1,6 @@
+[
+  { "id": "fukuoka-fukuoka",    "ko": "후쿠오카", "coordinate": { "lat": 33.5904, "lon": 130.4017 } },
+  { "id": "fukuoka-kitakyushu", "ko": "기타큐슈", "coordinate": { "lat": 33.8835, "lon": 130.8752 } },
+  { "id": "fukuoka-dazaifu",    "ko": "다자이후", "coordinate": { "lat": 33.5130, "lon": 130.5350 } },
+  { "id": "fukuoka-yanagawa",   "ko": "야나가와", "coordinate": { "lat": 33.1630, "lon": 130.4060 } }
+]

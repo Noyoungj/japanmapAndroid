@@ -1,0 +1,6 @@
+[
+  { "id": "shiga-otsu",     "ko": "오쓰",     "coordinate": { "lat": 35.0045, "lon": 135.8686 } },
+  { "id": "shiga-hikone",   "ko": "히코네",   "coordinate": { "lat": 35.2744, "lon": 136.2596 } },
+  { "id": "shiga-nagahama", "ko": "나가하마", "coordinate": { "lat": 35.3810, "lon": 136.2700 } },
+  { "id": "shiga-koka",     "ko": "고카",     "coordinate": { "lat": 34.9660, "lon": 136.1680 } }
+]

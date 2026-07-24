@@ -1,0 +1,6 @@
+[
+  { "id": "toyama-toyama",   "ko": "도야마",     "coordinate": { "lat": 36.6953, "lon": 137.2113 } },
+  { "id": "toyama-tateyama", "ko": "다테야마",   "coordinate": { "lat": 36.5760, "lon": 137.3070 } },
+  { "id": "toyama-unazuki",  "ko": "우나즈키온천", "coordinate": { "lat": 36.8170, "lon": 137.5870 } },
+  { "id": "toyama-gokayama", "ko": "고카야마",   "coordinate": { "lat": 36.4180, "lon": 136.9300 } }
+]

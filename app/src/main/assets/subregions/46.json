@@ -1,0 +1,5 @@
+[
+  { "id": "kagoshima-kagoshima", "ko": "가고시마", "coordinate": { "lat": 31.5969, "lon": 130.5571 } },
+  { "id": "kagoshima-ibusuki",   "ko": "이부스키", "coordinate": { "lat": 31.2520, "lon": 130.6320 } },
+  { "id": "kagoshima-kirishima", "ko": "기리시마", "coordinate": { "lat": 31.7400, "lon": 130.7630 } }
+]

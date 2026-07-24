@@ -1,0 +1,7 @@
+[
+  { "id": "aomori-aomori",   "ko": "아오모리",   "coordinate": { "lat": 40.8244, "lon": 140.7400 } },
+  { "id": "aomori-hirosaki", "ko": "히로사키",   "coordinate": { "lat": 40.6031, "lon": 140.4640 } },
+  { "id": "aomori-hachinohe", "ko": "하치노헤",  "coordinate": { "lat": 40.5123, "lon": 141.4884 } },
+  { "id": "aomori-towada",   "ko": "토와다코",   "coordinate": { "lat": 40.4631, "lon": 140.8810 } },
+  { "id": "aomori-mutsu",    "ko": "무쓰",       "coordinate": { "lat": 41.2894, "lon": 141.2169 } }
+]

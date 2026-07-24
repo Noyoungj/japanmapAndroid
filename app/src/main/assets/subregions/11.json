@@ -1,0 +1,6 @@
+[
+  { "id": "saitama-saitama",  "ko": "사이타마", "coordinate": { "lat": 35.8617, "lon": 139.6455 } },
+  { "id": "saitama-kawagoe",  "ko": "가와고에", "coordinate": { "lat": 35.9251, "lon": 139.4858 } },
+  { "id": "saitama-chichibu", "ko": "지치부",   "coordinate": { "lat": 35.9920, "lon": 139.0850 } },
+  { "id": "saitama-nagatoro", "ko": "나가토로", "coordinate": { "lat": 36.1080, "lon": 139.1130 } }
+]

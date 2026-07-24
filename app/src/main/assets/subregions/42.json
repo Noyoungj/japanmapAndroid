@@ -1,0 +1,7 @@
+[
+  { "id": "nagasaki-nagasaki",  "ko": "나가사키", "coordinate": { "lat": 32.7503, "lon": 129.8779 } },
+  { "id": "nagasaki-sasebo",    "ko": "사세보",   "coordinate": { "lat": 33.1800, "lon": 129.7150 } },
+  { "id": "nagasaki-unzen",     "ko": "운젠온천", "coordinate": { "lat": 32.7340, "lon": 130.2590 } },
+  { "id": "nagasaki-shimabara", "ko": "시마바라", "coordinate": { "lat": 32.7870, "lon": 130.3700 } },
+  { "id": "nagasaki-hirado",    "ko": "히라도",   "coordinate": { "lat": 33.3680, "lon": 129.5530 } }
+]

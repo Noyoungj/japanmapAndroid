@@ -1,0 +1,6 @@
+[
+  { "id": "miyazaki-miyazaki",  "ko": "미야자키", "coordinate": { "lat": 31.9077, "lon": 131.4202 } },
+  { "id": "miyazaki-nichinan",  "ko": "니치난",   "coordinate": { "lat": 31.6010, "lon": 131.3790 } },
+  { "id": "miyazaki-takachiho", "ko": "다카치호", "coordinate": { "lat": 32.7110, "lon": 131.3080 } },
+  { "id": "miyazaki-aoshima",   "ko": "아오시마", "coordinate": { "lat": 31.8030, "lon": 131.4720 } }
+]

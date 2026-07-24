@@ -1,0 +1,6 @@
+[
+  { "id": "kyoto-kyoto",           "ko": "교토",         "coordinate": { "lat": 35.0116, "lon": 135.7681 } },
+  { "id": "kyoto-uji",             "ko": "우지",         "coordinate": { "lat": 34.8844, "lon": 135.7997 } },
+  { "id": "kyoto-amanohashidate",  "ko": "아마노하시다테", "coordinate": { "lat": 35.5680, "lon": 135.1940 } },
+  { "id": "kyoto-maizuru",         "ko": "마이즈루",     "coordinate": { "lat": 35.4750, "lon": 135.3860 } }
+]

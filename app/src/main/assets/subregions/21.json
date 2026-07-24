@@ -1,0 +1,7 @@
+[
+  { "id": "gifu-gifu",        "ko": "기후",       "coordinate": { "lat": 35.4233, "lon": 136.7607 } },
+  { "id": "gifu-takayama",    "ko": "다카야마",   "coordinate": { "lat": 36.1461, "lon": 137.2520 } },
+  { "id": "gifu-shirakawago", "ko": "시라카와고", "coordinate": { "lat": 36.2580, "lon": 136.9060 } },
+  { "id": "gifu-gero",        "ko": "게로온천",   "coordinate": { "lat": 35.8070, "lon": 137.2440 } },
+  { "id": "gifu-gujo",        "ko": "군조하치만", "coordinate": { "lat": 35.7490, "lon": 136.9640 } }
+]

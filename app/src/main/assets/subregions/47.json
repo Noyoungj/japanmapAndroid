@@ -1,0 +1,6 @@
+[
+  { "id": "okinawa-naha",   "ko": "나하",   "coordinate": { "lat": 26.2124, "lon": 127.6809 } },
+  { "id": "okinawa-onna",   "ko": "온나",   "coordinate": { "lat": 26.4980, "lon": 127.8540 } },
+  { "id": "okinawa-nago",   "ko": "나고",   "coordinate": { "lat": 26.5917, "lon": 127.9774 } },
+  { "id": "okinawa-motobu", "ko": "모토부", "coordinate": { "lat": 26.6940, "lon": 127.8780 } }
+]

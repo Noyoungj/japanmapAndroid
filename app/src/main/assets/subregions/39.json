@@ -1,0 +1,6 @@
+[
+  { "id": "kochi-kochi",    "ko": "고치",     "coordinate": { "lat": 33.5597, "lon": 133.5311 } },
+  { "id": "kochi-shimanto", "ko": "시만토",   "coordinate": { "lat": 32.9910, "lon": 132.9350 } },
+  { "id": "kochi-muroto",   "ko": "무로토",   "coordinate": { "lat": 33.2900, "lon": 134.1520 } },
+  { "id": "kochi-ashizuri", "ko": "아시즈리", "coordinate": { "lat": 32.7250, "lon": 133.0150 } }
+]

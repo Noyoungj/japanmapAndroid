@@ -1,0 +1,9 @@
+[
+  { "id": "shizuoka-shizuoka",   "ko": "시즈오카",   "coordinate": { "lat": 34.9769, "lon": 138.3831 } },
+  { "id": "shizuoka-hamamatsu",  "ko": "하마마쓰",   "coordinate": { "lat": 34.7108, "lon": 137.7261 } },
+  { "id": "shizuoka-atami",      "ko": "아타미",     "coordinate": { "lat": 35.0960, "lon": 139.0680 } },
+  { "id": "shizuoka-ito",        "ko": "이토",       "coordinate": { "lat": 34.9660, "lon": 139.1020 } },
+  { "id": "shizuoka-shuzenji",   "ko": "슈젠지",     "coordinate": { "lat": 34.9750, "lon": 138.9300 } },
+  { "id": "shizuoka-shimoda",    "ko": "시모다",     "coordinate": { "lat": 34.6790, "lon": 138.9450 } },
+  { "id": "shizuoka-fujinomiya", "ko": "후지노미야", "coordinate": { "lat": 35.2220, "lon": 138.6210 } }
+]

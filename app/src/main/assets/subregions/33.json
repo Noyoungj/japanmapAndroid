@@ -1,0 +1,6 @@
+[
+  { "id": "okayama-okayama",   "ko": "오카야마", "coordinate": { "lat": 34.6551, "lon": 133.9195 } },
+  { "id": "okayama-kurashiki", "ko": "구라시키", "coordinate": { "lat": 34.6000, "lon": 133.7720 } },
+  { "id": "okayama-takahashi", "ko": "다카하시", "coordinate": { "lat": 34.7910, "lon": 133.6160 } },
+  { "id": "okayama-tsuyama",   "ko": "쓰야마",   "coordinate": { "lat": 35.0690, "lon": 134.0040 } }
+]

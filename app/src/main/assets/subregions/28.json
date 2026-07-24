@@ -1,0 +1,7 @@
+[
+  { "id": "hyogo-kobe",     "ko": "고베",       "coordinate": { "lat": 34.6901, "lon": 135.1955 } },
+  { "id": "hyogo-himeji",   "ko": "히메지",     "coordinate": { "lat": 34.8154, "lon": 134.6855 } },
+  { "id": "hyogo-kinosaki", "ko": "기노사키온천", "coordinate": { "lat": 35.6260, "lon": 134.8060 } },
+  { "id": "hyogo-awaji",    "ko": "아와지",     "coordinate": { "lat": 34.4400, "lon": 134.9150 } },
+  { "id": "hyogo-arima",    "ko": "아리마온천", "coordinate": { "lat": 34.7980, "lon": 135.2480 } }
+]

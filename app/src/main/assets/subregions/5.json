@@ -1,0 +1,7 @@
+[
+  { "id": "akita-akita",      "ko": "아키타",     "coordinate": { "lat": 39.7186, "lon": 140.1024 } },
+  { "id": "akita-kakunodate", "ko": "가쿠노다테", "coordinate": { "lat": 39.5980, "lon": 140.5630 } },
+  { "id": "akita-tazawako",   "ko": "다자와코",   "coordinate": { "lat": 39.7250, "lon": 140.6610 } },
+  { "id": "akita-oga",        "ko": "오가",       "coordinate": { "lat": 39.8865, "lon": 139.8470 } },
+  { "id": "akita-yokote",     "ko": "요코테",     "coordinate": { "lat": 39.3137, "lon": 140.5666 } }
+]

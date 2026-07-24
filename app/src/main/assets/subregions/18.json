@@ -1,0 +1,7 @@
+[
+  { "id": "fukui-fukui",    "ko": "후쿠이",     "coordinate": { "lat": 36.0652, "lon": 136.2196 } },
+  { "id": "fukui-eiheiji",  "ko": "에이헤이지", "coordinate": { "lat": 36.0560, "lon": 136.3550 } },
+  { "id": "fukui-awara",    "ko": "아와라온천", "coordinate": { "lat": 36.2180, "lon": 136.2290 } },
+  { "id": "fukui-tojinbo",  "ko": "도진보",     "coordinate": { "lat": 36.2390, "lon": 136.1260 } },
+  { "id": "fukui-tsuruga",  "ko": "쓰루가",     "coordinate": { "lat": 35.6450, "lon": 136.0560 } }
+]

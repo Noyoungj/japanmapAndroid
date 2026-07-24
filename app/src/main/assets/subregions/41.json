@@ -1,0 +1,6 @@
+[
+  { "id": "saga-saga",     "ko": "사가",       "coordinate": { "lat": 33.2494, "lon": 130.2988 } },
+  { "id": "saga-karatsu",  "ko": "가라쓰",     "coordinate": { "lat": 33.4500, "lon": 129.9690 } },
+  { "id": "saga-arita",    "ko": "아리타",     "coordinate": { "lat": 33.2060, "lon": 129.8870 } },
+  { "id": "saga-ureshino", "ko": "우레시노온천", "coordinate": { "lat": 33.1010, "lon": 129.9810 } }
+]

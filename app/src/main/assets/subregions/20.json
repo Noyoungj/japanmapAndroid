@@ -1,0 +1,9 @@
+[
+  { "id": "nagano-nagano",    "ko": "나가노",     "coordinate": { "lat": 36.6485, "lon": 138.1947 } },
+  { "id": "nagano-matsumoto", "ko": "마쓰모토",   "coordinate": { "lat": 36.2381, "lon": 137.9720 } },
+  { "id": "nagano-karuizawa", "ko": "가루이자와", "coordinate": { "lat": 36.3485, "lon": 138.5970 } },
+  { "id": "nagano-hakuba",    "ko": "하쿠바",     "coordinate": { "lat": 36.6985, "lon": 137.8620 } },
+  { "id": "nagano-kamikochi", "ko": "가미코치",   "coordinate": { "lat": 36.2500, "lon": 137.6340 } },
+  { "id": "nagano-nozawa",    "ko": "노자와온천", "coordinate": { "lat": 36.9210, "lon": 138.4430 } },
+  { "id": "nagano-yudanaka",  "ko": "유다나카",   "coordinate": { "lat": 36.7320, "lon": 138.4600 } }
+]

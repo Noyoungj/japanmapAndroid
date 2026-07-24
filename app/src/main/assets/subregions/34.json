@@ -1,0 +1,7 @@
+[
+  { "id": "hiroshima-hiroshima", "ko": "히로시마", "coordinate": { "lat": 34.3853, "lon": 132.4553 } },
+  { "id": "hiroshima-miyajima",  "ko": "미야지마", "coordinate": { "lat": 34.2960, "lon": 132.3200 } },
+  { "id": "hiroshima-onomichi",  "ko": "오노미치", "coordinate": { "lat": 34.4090, "lon": 133.2050 } },
+  { "id": "hiroshima-fukuyama",  "ko": "후쿠야마", "coordinate": { "lat": 34.4858, "lon": 133.3625 } },
+  { "id": "hiroshima-kure",      "ko": "구레",     "coordinate": { "lat": 34.2490, "lon": 132.5660 } }
+]

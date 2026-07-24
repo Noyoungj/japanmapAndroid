@@ -1,0 +1,7 @@
+[
+  { "id": "kumamoto-kumamoto", "ko": "구마모토",   "coordinate": { "lat": 32.8032, "lon": 130.7079 } },
+  { "id": "kumamoto-aso",      "ko": "아소",       "coordinate": { "lat": 32.9430, "lon": 131.1110 } },
+  { "id": "kumamoto-kurokawa", "ko": "구로카와온천", "coordinate": { "lat": 33.0777, "lon": 131.1419 } },
+  { "id": "kumamoto-amakusa",  "ko": "아마쿠사",   "coordinate": { "lat": 32.4580, "lon": 130.1930 } },
+  { "id": "kumamoto-hitoyoshi", "ko": "히토요시",  "coordinate": { "lat": 32.2100, "lon": 130.7620 } }
+]

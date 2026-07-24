@@ -1,0 +1,7 @@
+[
+  { "id": "oita-oita",    "ko": "오이타",   "coordinate": { "lat": 33.2382, "lon": 131.6126 } },
+  { "id": "oita-beppu",   "ko": "벳푸",     "coordinate": { "lat": 33.2790, "lon": 131.5000 } },
+  { "id": "oita-yufuin",  "ko": "유후인",   "coordinate": { "lat": 33.2640, "lon": 131.3870 } },
+  { "id": "oita-usa",     "ko": "우사",     "coordinate": { "lat": 33.5260, "lon": 131.3490 } },
+  { "id": "oita-nakatsu", "ko": "나카쓰",   "coordinate": { "lat": 33.5980, "lon": 131.1880 } }
+]

@@ -1,0 +1,18 @@
+[
+  { "id": "hokkaido-sapporo",     "ko": "삿포로",     "centroid": { "cx": 713, "cy": 195 }, "coordinate": { "lat": 43.0618, "lon": 141.3545 } },
+  { "id": "hokkaido-otaru",       "ko": "오타루",     "centroid": { "cx": 695, "cy": 187 }, "coordinate": { "lat": 43.1907, "lon": 140.9947 } },
+  { "id": "hokkaido-hakodate",    "ko": "하코다테",   "centroid": { "cx": 674, "cy": 270 }, "coordinate": { "lat": 41.7687, "lon": 140.7288 } },
+  { "id": "hokkaido-furano",      "ko": "후라노",     "centroid": { "cx": 766, "cy": 177 }, "coordinate": { "lat": 43.3421, "lon": 142.3833 } },
+  { "id": "hokkaido-biei",        "ko": "비에이",     "centroid": { "cx": 770, "cy": 160 }, "coordinate": { "lat": 43.5882, "lon": 142.4669 } },
+  { "id": "hokkaido-asahikawa",   "ko": "아사히카와", "centroid": { "cx": 766, "cy": 148 }, "coordinate": { "lat": 43.7708, "lon": 142.3650 } },
+  { "id": "hokkaido-noboribetsu", "ko": "노보리베츠", "centroid": { "cx": 691, "cy": 217 }, "coordinate": { "lat": 42.4131, "lon": 141.1067 } },
+  { "id": "hokkaido-toyako",      "ko": "토야코",     "centroid": { "cx": 683, "cy": 223 }, "coordinate": { "lat": 42.5786, "lon": 140.8131 } },
+  { "id": "hokkaido-jozankei",    "ko": "조잔케이",   "centroid": { "cx": 703, "cy": 201 }, "coordinate": { "lat": 42.9692, "lon": 141.1631 } },
+  { "id": "hokkaido-niseko",      "ko": "니세코",     "centroid": { "cx": 679, "cy": 212 }, "coordinate": { "lat": 42.8048, "lon": 140.6874 } },
+  { "id": "hokkaido-kushiro",     "ko": "쿠시로",     "centroid": { "cx": 850, "cy": 183 }, "coordinate": { "lat": 42.9849, "lon": 144.3820 } },
+  { "id": "hokkaido-abashiri",    "ko": "아바시리",   "centroid": { "cx": 848, "cy": 132 }, "coordinate": { "lat": 44.0206, "lon": 144.2737 } },
+  { "id": "hokkaido-shiretoko",   "ko": "시레토코",   "centroid": { "cx": 883, "cy": 159 }, "coordinate": { "lat": 44.0758, "lon": 145.0277 } },
+  { "id": "hokkaido-wakkanai",    "ko": "왓카나이",   "centroid": { "cx": 714, "cy": 54 }, "coordinate": { "lat": 45.4156, "lon": 141.6730 } },
+  { "id": "hokkaido-obihiro",     "ko": "오비히로",   "centroid": { "cx": 798, "cy": 197 }, "coordinate": { "lat": 42.9239, "lon": 143.1967 } },
+  { "id": "hokkaido-sounkyo",     "ko": "소운쿄",     "centroid": { "cx": 796, "cy": 152 }, "coordinate": { "lat": 43.7236, "lon": 142.9667 } }
+]

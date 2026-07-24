@@ -1,0 +1,5 @@
+[
+  { "id": "tokushima-tokushima", "ko": "도쿠시마", "coordinate": { "lat": 34.0703, "lon": 134.5547 } },
+  { "id": "tokushima-naruto",    "ko": "나루토",   "coordinate": { "lat": 34.1730, "lon": 134.6090 } },
+  { "id": "tokushima-miyoshi",   "ko": "미요시",   "coordinate": { "lat": 33.8990, "lon": 133.7920 } }
+]

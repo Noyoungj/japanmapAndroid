@@ -1,0 +1,7 @@
+[
+  { "id": "kagawa-takamatsu",  "ko": "다카마쓰", "coordinate": { "lat": 34.3401, "lon": 134.0434 } },
+  { "id": "kagawa-kotohira",   "ko": "고토히라", "coordinate": { "lat": 34.1860, "lon": 133.8190 } },
+  { "id": "kagawa-naoshima",   "ko": "나오시마", "coordinate": { "lat": 34.4600, "lon": 133.9950 } },
+  { "id": "kagawa-marugame",   "ko": "마루가메", "coordinate": { "lat": 34.2897, "lon": 133.7977 } },
+  { "id": "kagawa-shodoshima", "ko": "쇼도시마", "coordinate": { "lat": 34.4880, "lon": 134.2380 } }
+]

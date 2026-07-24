@@ -1,0 +1,7 @@
+[
+  { "id": "niigata-niigata",      "ko": "니가타",     "coordinate": { "lat": 37.9161, "lon": 139.0364 } },
+  { "id": "niigata-echigoyuzawa", "ko": "에치고유자와", "coordinate": { "lat": 36.9365, "lon": 138.8090 } },
+  { "id": "niigata-sado",         "ko": "사도",       "coordinate": { "lat": 38.0182, "lon": 138.3680 } },
+  { "id": "niigata-myoko",        "ko": "묘코",       "coordinate": { "lat": 36.8920, "lon": 138.2540 } },
+  { "id": "niigata-nagaoka",      "ko": "나가오카",   "coordinate": { "lat": 37.4461, "lon": 138.8510 } }
+]

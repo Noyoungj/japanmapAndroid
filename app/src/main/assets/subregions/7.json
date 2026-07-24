@@ -1,0 +1,8 @@
+[
+  { "id": "fukushima-fukushima",      "ko": "후쿠시마",     "coordinate": { "lat": 37.7608, "lon": 140.4748 } },
+  { "id": "fukushima-aizuwakamatsu",  "ko": "아이즈와카마쓰", "coordinate": { "lat": 37.4948, "lon": 139.9296 } },
+  { "id": "fukushima-kitakata",       "ko": "기타카타",     "coordinate": { "lat": 37.6510, "lon": 139.8730 } },
+  { "id": "fukushima-inawashiro",     "ko": "이나와시로",   "coordinate": { "lat": 37.5618, "lon": 140.1067 } },
+  { "id": "fukushima-iwaki",          "ko": "이와키",       "coordinate": { "lat": 37.0505, "lon": 140.8877 } },
+  { "id": "fukushima-koriyama",       "ko": "고리야마",     "coordinate": { "lat": 37.4006, "lon": 140.3597 } }
+]

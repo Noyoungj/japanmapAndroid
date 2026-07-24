@@ -1,0 +1,7 @@
+[
+  { "id": "shimane-matsue",       "ko": "마쓰에",     "coordinate": { "lat": 35.4680, "lon": 133.0486 } },
+  { "id": "shimane-izumo",        "ko": "이즈모",     "coordinate": { "lat": 35.4020, "lon": 132.6850 } },
+  { "id": "shimane-tsuwano",      "ko": "쓰와노",     "coordinate": { "lat": 34.4660, "lon": 131.7600 } },
+  { "id": "shimane-iwamiginzan",  "ko": "이와미긴잔", "coordinate": { "lat": 35.1644, "lon": 132.4417 } },
+  { "id": "shimane-tamatsukuri",  "ko": "다마쓰쿠리온천", "coordinate": { "lat": 35.4200, "lon": 133.0140 } }
+]

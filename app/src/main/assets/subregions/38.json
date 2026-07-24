@@ -1,0 +1,6 @@
+[
+  { "id": "ehime-matsuyama", "ko": "마쓰야마", "coordinate": { "lat": 33.8392, "lon": 132.7657 } },
+  { "id": "ehime-imabari",   "ko": "이마바리", "coordinate": { "lat": 34.0660, "lon": 132.9980 } },
+  { "id": "ehime-uchiko",    "ko": "우치코",   "coordinate": { "lat": 33.5350, "lon": 132.6580 } },
+  { "id": "ehime-uwajima",   "ko": "우와지마", "coordinate": { "lat": 33.2230, "lon": 132.5600 } }
+]

@@ -1,0 +1,6 @@
+[
+  { "id": "yamanashi-kofu",        "ko": "고후",       "coordinate": { "lat": 35.6642, "lon": 138.5683 } },
+  { "id": "yamanashi-kawaguchiko", "ko": "가와구치코", "coordinate": { "lat": 35.5070, "lon": 138.7660 } },
+  { "id": "yamanashi-fujiyoshida", "ko": "후지요시다", "coordinate": { "lat": 35.4870, "lon": 138.8080 } },
+  { "id": "yamanashi-yamanakako",  "ko": "야마나카코", "coordinate": { "lat": 35.4180, "lon": 138.8680 } }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "aichi-nagoya",   "ko": "나고야",   "coordinate": { "lat": 35.1815, "lon": 136.9066 } },
+  { "id": "aichi-inuyama",  "ko": "이누야마", "coordinate": { "lat": 35.3790, "lon": 136.9440 } },
+  { "id": "aichi-gamagori", "ko": "가마고리", "coordinate": { "lat": 34.8270, "lon": 137.2200 } },
+  { "id": "aichi-toyokawa", "ko": "도요카와", "coordinate": { "lat": 34.8270, "lon": 137.3760 } },
+  { "id": "aichi-tokoname", "ko": "도코나메", "coordinate": { "lat": 34.8860, "lon": 136.8320 } }
+]

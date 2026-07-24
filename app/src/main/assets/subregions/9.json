@@ -1,0 +1,7 @@
+[
+  { "id": "tochigi-nikko",      "ko": "닛코",       "coordinate": { "lat": 36.7198, "lon": 139.6982 } },
+  { "id": "tochigi-utsunomiya", "ko": "우쓰노미야", "coordinate": { "lat": 36.5658, "lon": 139.8836 } },
+  { "id": "tochigi-nasu",       "ko": "나스",       "coordinate": { "lat": 37.0167, "lon": 140.1167 } },
+  { "id": "tochigi-kinugawa",   "ko": "기누가와온천", "coordinate": { "lat": 36.8200, "lon": 139.7150 } },
+  { "id": "tochigi-ashikaga",   "ko": "아시카가",   "coordinate": { "lat": 36.3340, "lon": 139.4500 } }
+]

@@ -1,0 +1,7 @@
+[
+  { "id": "chiba-chiba",    "ko": "지바",     "coordinate": { "lat": 35.6074, "lon": 140.1065 } },
+  { "id": "chiba-narita",   "ko": "나리타",   "coordinate": { "lat": 35.7767, "lon": 140.3185 } },
+  { "id": "chiba-urayasu",  "ko": "우라야스", "coordinate": { "lat": 35.6537, "lon": 139.9020 } },
+  { "id": "chiba-kamogawa", "ko": "가모가와", "coordinate": { "lat": 35.1140, "lon": 140.0990 } },
+  { "id": "chiba-tateyama", "ko": "다테야마", "coordinate": { "lat": 34.9967, "lon": 139.8700 } }
+]

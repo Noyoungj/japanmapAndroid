@@ -1,0 +1,7 @@
+[
+  { "id": "yamaguchi-yamaguchi",    "ko": "야마구치",   "coordinate": { "lat": 34.1859, "lon": 131.4714 } },
+  { "id": "yamaguchi-shimonoseki",  "ko": "시모노세키", "coordinate": { "lat": 33.9576, "lon": 130.9410 } },
+  { "id": "yamaguchi-hagi",         "ko": "하기",       "coordinate": { "lat": 34.4080, "lon": 131.3990 } },
+  { "id": "yamaguchi-iwakuni",      "ko": "이와쿠니",   "coordinate": { "lat": 34.1670, "lon": 132.1770 } },
+  { "id": "yamaguchi-akiyoshidai",  "ko": "아키요시다이", "coordinate": { "lat": 34.2360, "lon": 131.3000 } }
+]

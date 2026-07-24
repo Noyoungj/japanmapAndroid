@@ -1,0 +1,7 @@
+[
+  { "id": "miyagi-sendai",     "ko": "센다이",     "coordinate": { "lat": 38.2682, "lon": 140.8694 } },
+  { "id": "miyagi-matsushima", "ko": "마쓰시마",   "coordinate": { "lat": 38.3739, "lon": 141.0686 } },
+  { "id": "miyagi-naruko",     "ko": "나루코온천", "coordinate": { "lat": 38.7434, "lon": 140.7160 } },
+  { "id": "miyagi-kesennuma",  "ko": "게센누마",   "coordinate": { "lat": 38.9078, "lon": 141.5700 } },
+  { "id": "miyagi-shiroishi",  "ko": "시로이시",   "coordinate": { "lat": 38.0026, "lon": 140.6196 } }
+]

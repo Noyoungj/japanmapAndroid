@@ -1,0 +1,8 @@
+[
+  { "id": "yamagata-yamagata", "ko": "야마가타",   "coordinate": { "lat": 38.2554, "lon": 140.3396 } },
+  { "id": "yamagata-ginzan",   "ko": "긴잔온천",   "coordinate": { "lat": 38.5672, "lon": 140.5256 } },
+  { "id": "yamagata-tsuruoka", "ko": "쓰루오카",   "coordinate": { "lat": 38.7274, "lon": 139.8266 } },
+  { "id": "yamagata-sakata",   "ko": "사카타",     "coordinate": { "lat": 38.9140, "lon": 139.8360 } },
+  { "id": "yamagata-yonezawa", "ko": "요네자와",   "coordinate": { "lat": 37.9222, "lon": 140.1167 } },
+  { "id": "yamagata-tendo",    "ko": "텐도",       "coordinate": { "lat": 38.3620, "lon": 140.3780 } }
+]

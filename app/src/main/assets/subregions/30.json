@@ -1,0 +1,7 @@
+[
+  { "id": "wakayama-wakayama",      "ko": "와카야마",     "coordinate": { "lat": 34.2261, "lon": 135.1675 } },
+  { "id": "wakayama-koyasan",       "ko": "고야산",       "coordinate": { "lat": 34.2130, "lon": 135.5840 } },
+  { "id": "wakayama-shirahama",     "ko": "시라하마",     "coordinate": { "lat": 33.6850, "lon": 135.3480 } },
+  { "id": "wakayama-nachikatsuura", "ko": "나치카쓰우라", "coordinate": { "lat": 33.6230, "lon": 135.9430 } },
+  { "id": "wakayama-shingu",        "ko": "신구",         "coordinate": { "lat": 33.7280, "lon": 135.9830 } }
+]

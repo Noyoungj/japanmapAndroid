@@ -1,0 +1,7 @@
+[
+  { "id": "gunma-takasaki", "ko": "다카사키",   "coordinate": { "lat": 36.3219, "lon": 139.0033 } },
+  { "id": "gunma-maebashi", "ko": "마에바시",   "coordinate": { "lat": 36.3895, "lon": 139.0634 } },
+  { "id": "gunma-kusatsu",  "ko": "구사쓰온천", "coordinate": { "lat": 36.6210, "lon": 138.5964 } },
+  { "id": "gunma-ikaho",    "ko": "이카호온천", "coordinate": { "lat": 36.4900, "lon": 138.9100 } },
+  { "id": "gunma-minakami", "ko": "미나카미",   "coordinate": { "lat": 36.6790, "lon": 138.9990 } }
+]

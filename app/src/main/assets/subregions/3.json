@@ -1,0 +1,7 @@
+[
+  { "id": "iwate-morioka",   "ko": "모리오카",   "coordinate": { "lat": 39.7036, "lon": 141.1527 } },
+  { "id": "iwate-hiraizumi", "ko": "히라이즈미", "coordinate": { "lat": 38.9870, "lon": 141.1120 } },
+  { "id": "iwate-hanamaki",  "ko": "하나마키",   "coordinate": { "lat": 39.3886, "lon": 141.1166 } },
+  { "id": "iwate-miyako",    "ko": "미야코",     "coordinate": { "lat": 39.6416, "lon": 141.9568 } },
+  { "id": "iwate-tono",      "ko": "도노",       "coordinate": { "lat": 39.3271, "lon": 141.5337 } }
+]

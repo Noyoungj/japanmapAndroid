@@ -1,0 +1,6 @@
+[
+  { "id": "nara-nara",     "ko": "나라",     "coordinate": { "lat": 34.6851, "lon": 135.8048 } },
+  { "id": "nara-yoshino",  "ko": "요시노",   "coordinate": { "lat": 34.3690, "lon": 135.8580 } },
+  { "id": "nara-asuka",    "ko": "아스카",   "coordinate": { "lat": 34.4670, "lon": 135.8200 } },
+  { "id": "nara-ikaruga",  "ko": "이카루가", "coordinate": { "lat": 34.6140, "lon": 135.7350 } }
+]

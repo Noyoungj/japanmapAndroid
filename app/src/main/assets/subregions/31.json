@@ -1,0 +1,7 @@
+[
+  { "id": "tottori-tottori",     "ko": "돗토리",     "coordinate": { "lat": 35.5011, "lon": 134.2351 } },
+  { "id": "tottori-kurayoshi",   "ko": "구라요시",   "coordinate": { "lat": 35.4300, "lon": 133.8260 } },
+  { "id": "tottori-misasa",      "ko": "미사사온천", "coordinate": { "lat": 35.4030, "lon": 133.8830 } },
+  { "id": "tottori-daisen",      "ko": "다이센",     "coordinate": { "lat": 35.3710, "lon": 133.5400 } },
+  { "id": "tottori-sakaiminato", "ko": "사카이미나토", "coordinate": { "lat": 35.5430, "lon": 133.2290 } }
+]

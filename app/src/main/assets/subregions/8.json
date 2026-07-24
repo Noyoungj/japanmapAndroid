@@ -1,0 +1,6 @@
+[
+  { "id": "ibaraki-mito",       "ko": "미토",       "coordinate": { "lat": 36.3418, "lon": 140.4468 } },
+  { "id": "ibaraki-hitachinaka", "ko": "히타치나카", "coordinate": { "lat": 36.3966, "lon": 140.5347 } },
+  { "id": "ibaraki-tsukuba",    "ko": "쓰쿠바",     "coordinate": { "lat": 36.2048, "lon": 140.1067 } },
+  { "id": "ibaraki-kashima",    "ko": "가시마",     "coordinate": { "lat": 35.9657, "lon": 140.6306 } }
+]

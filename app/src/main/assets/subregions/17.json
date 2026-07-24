@@ -1,0 +1,6 @@
+[
+  { "id": "ishikawa-kanazawa", "ko": "가나자와",   "coordinate": { "lat": 36.5613, "lon": 136.6562 } },
+  { "id": "ishikawa-wajima",   "ko": "와지마",     "coordinate": { "lat": 37.3906, "lon": 136.8990 } },
+  { "id": "ishikawa-wakura",   "ko": "와쿠라온천", "coordinate": { "lat": 37.0930, "lon": 136.9760 } },
+  { "id": "ishikawa-kaga",     "ko": "가가온천",   "coordinate": { "lat": 36.3030, "lon": 136.3150 } }
+]

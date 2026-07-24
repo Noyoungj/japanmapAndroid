@@ -1,0 +1,7 @@
+[
+  { "id": "kanagawa-yokohama", "ko": "요코하마", "coordinate": { "lat": 35.4437, "lon": 139.6380 } },
+  { "id": "kanagawa-kamakura", "ko": "가마쿠라", "coordinate": { "lat": 35.3192, "lon": 139.5466 } },
+  { "id": "kanagawa-hakone",   "ko": "하코네",   "coordinate": { "lat": 35.2324, "lon": 139.1069 } },
+  { "id": "kanagawa-enoshima", "ko": "에노시마", "coordinate": { "lat": 35.2999, "lon": 139.4809 } },
+  { "id": "kanagawa-odawara",  "ko": "오다와라", "coordinate": { "lat": 35.2647, "lon": 139.1522 } }
+]

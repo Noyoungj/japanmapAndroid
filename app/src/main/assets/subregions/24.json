@@ -1,0 +1,7 @@
+[
+  { "id": "mie-ise",       "ko": "이세",     "coordinate": { "lat": 34.4870, "lon": 136.7090 } },
+  { "id": "mie-toba",      "ko": "도바",     "coordinate": { "lat": 34.4810, "lon": 136.8430 } },
+  { "id": "mie-shima",     "ko": "시마",     "coordinate": { "lat": 34.3270, "lon": 136.8430 } },
+  { "id": "mie-nagashima", "ko": "나가시마", "coordinate": { "lat": 35.0270, "lon": 136.7320 } },
+  { "id": "mie-tsu",       "ko": "쓰",       "coordinate": { "lat": 34.7186, "lon": 136.5056 } }
+]
